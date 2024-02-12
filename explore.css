@@ -1,0 +1,218 @@
+body{
+    background: linear-gradient(0,rgb(252, 225, 164),rgb(253, 237, 213));
+}
+#baraf img{
+    width: 270px;
+    height:350px;
+    margin-top:60px;
+    border-radius: 8px;
+    box-shadow: 1px 2px 4px 2px rgb(93, 91, 91);
+}
+
+
+
+li h2{
+    color: rgb(116, 29, 65);
+    font-size: 35px;
+    margin-top: 80px;
+    margin-bottom: 10px;
+}
+
+li p{
+    color: rgb(99, 38, 78);
+}
+
+ol{
+    list-style:disc;    
+}
+
+h3{
+    margin-left: 50px;
+    color: rgb(74, 24, 47);
+    text-decoration: underline;
+}
+
+ol{
+    padding-bottom:40px;
+}
+
+ol li{
+    margin-left: 90px;
+    padding: 6px;
+    color: rgb(99, 48, 77);
+
+}
+
+
+#bhad img{
+    width: 300px;
+    height:300px;
+    object-fit: cover;
+    margin-top: 100px;
+    border-radius: 8px;
+    box-shadow: 1px 2px 4px 2px rgb(93, 91, 91);
+}
+
+.Bhadra {
+    margin-top: 100px;
+}
+
+#dal img{
+    width: 340px;
+    height: 220px;
+    border-radius: 8px;
+    box-shadow: 1px 2px 4px 2px rgb(93, 91, 91);
+}
+
+.dall {
+margin-top: 100px;
+}
+
+#devl img{
+    width: 280px;
+    height:350px;
+    margin-top: 100px;
+    border-radius: 8px;
+    box-shadow: 1px 2px 4px 2px rgb(93, 91, 91);
+}
+
+.dev{
+    margin-top: 110px;
+}
+
+.hum{
+    margin-top: 130px;
+}
+
+#surd img{
+    height: 350px;
+    width:250px;
+    margin-top: 110px;
+    border-radius: 8px;
+    box-shadow: 1px 2px 4px 2px rgb(93, 91, 91);
+}
+
+.surt{
+    margin-top: 30px;
+}
+
+
+#top img{
+    width: 350px;
+    border-radius: 8px;
+    box-shadow: 1px 2px 4px 2px rgb(93, 91, 91);
+}
+
+#top{
+    margin-top: -100px;
+}
+
+.moila {
+  margin-top:90px;
+}
+
+#mann{
+    margin-top: 70px;
+}
+
+
+#mann img{
+    width: 300px;
+    height: 250px;
+    border-radius: 8px;
+    box-shadow: 1px 2px 4px 2px rgb(93, 91, 91);
+}
+
+.prem {
+    margin-top: 120px;
+}
+
+
+#safdar img{
+    height:350px;
+    width: 280px;
+    margin-top: 60px;
+    border-radius: 8px;
+    box-shadow: 1px 2px 4px 2px rgb(93, 91, 91);
+}
+.safar{
+    margin-top: 130px;
+}
+
+
+#iskk img{
+    width: 350px;
+    height: 300px;
+    border-radius: 8px;
+    box-shadow: 1px 2px 4px 2px rgb(93, 91, 91);
+}
+
+#iskk{
+    margin-top: 90px;
+}
+
+.temples{
+    margin-top:100px;
+}
+
+#sund img{
+    height: 340px;
+    width: 280px;
+    border-radius: 8px;
+    box-shadow: 1px 2px 4px 2px rgb(93, 91, 91);
+}
+
+.sun{
+     margin-top: 110px;
+}
+
+#fort img{
+    height:230px;
+    width:330px;
+    border-radius: 8px;
+    box-shadow: 1px 2px 4px 2px rgb(93, 91, 91);
+}
+
+#fort{
+    margin-top: 20px;
+}
+
+#hoz li{
+    margin-top:50px;
+}
+
+#fall li{
+    margin-top:50px;
+}
+
+#beee img{
+    width: 330px;
+    height: 230px;
+    margin-top: 40px;
+    border-radius: 8px;
+    box-shadow: 1px 2px 4px 2px rgb(93, 91, 91);
+}
+
+#lod img{
+    width:330px;
+    height: 250px;
+    border-radius: 8px;
+    box-shadow: 1px 2px 4px 2px rgb(93, 91, 91);
+}
+
+ .backed a{
+    text-decoration: none;
+    color: rgb(33, 7, 14);
+}
+
+.backed{
+    text-align: right;
+    margin-bottom: 30px;
+    margin-right: 10px;
+}
+
+.backed a:hover{
+    background-color: rgb(250, 184, 207);
+    padding: 5px 5px 5px 5px;
+    border-radius: 8px;
+}
